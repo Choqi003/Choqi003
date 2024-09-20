@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Anes</h1>
 <h3 align="center">A passionate frontend developer from Bosnia.</h3>
 
-- 🔭 I’m currently working on learning web development [Practice-lessons](https://github.com/Choqi003/Practice-lessons)
+- 🔭 I’m currently working on learning web development [Lessons-javascript](https://github.com/Choqi003/Lessons-javascript.git)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
